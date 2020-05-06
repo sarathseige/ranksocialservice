@@ -125,6 +125,8 @@ body, ul, li, h1, h2, a{
     color: white;
     padding: 10px;
     text-align: center;
+    position: fixed;
+    bottom: 0;
   }
   
   /* responsive styles */
